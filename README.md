@@ -1,24 +1,24 @@
-# 👋 Olá, eu sou João Paulo.
+#  Olá, eu sou João Paulo.
 
-🎓 Estudante de Engenharia de Software  
-☕ Desenvolvedor Backend Java | Spring Boot | SQL  
-🎯 Em busca de estágio na área de Backend  
+ Estudante de Engenharia de Software  
+ Desenvolvedor Backend Java | Spring Boot | SQL  
+ Em busca de estágio na área de Backend  
 
 Sou estudante de Engenharia de Software com foco em **desenvolvimento Backend utilizando Java e Spring Boot**, interessado em construir APIs REST seguindo padrões corporativos, boas práticas de arquitetura e persistência de dados com SQL.
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Cursando **Engenharia de Software**
-- ☕ Stack principal: **Java + Spring Boot**
-- 🗄️ Bancos de dados relacionais (SQL)
-- 🏢 Perfil corporativo
-- 🌱 Estudando: Spring Data JPA, APIs REST, SQL
-- 🎯 Objetivo: Conquistar uma oportunidade de **estágio Backend Java** e atuar em projetos reais
+## Sobre mim
+-  Cursando **Engenharia de Software**
+-  Stack principal: **Java + Spring Boot**
+-  Bancos de dados relacionais (SQL)
+-  Perfil corporativo
+-  Estudando: Spring Data JPA, APIs REST, SQL
+-  Objetivo: Conquistar uma oportunidade de **estágio Backend Java** e atuar em projetos reais
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Backend
 - Java 17
@@ -41,7 +41,7 @@ Sou estudante de Engenharia de Software com foco em **desenvolvimento Backend ut
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 🚧 Em desenvolvimento
 
 🔹 **API de Gestão de Usuários**  
@@ -50,7 +50,7 @@ Backend corporativo focado em boas práticas e arquitetura em camadas.
 
 ---
 
-## 🌐 Contato
+## Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3opaulodevx/
 - 📧 Email: fagundesjoao1902@outlook.com
 
