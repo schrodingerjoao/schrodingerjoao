@@ -4,7 +4,6 @@
  Desenvolvedor Backend Java | Spring Boot | SQL  
  Em busca de estágio na área de Backend  
 
-Sou estudante de Engenharia de Software com foco em **desenvolvimento Backend utilizando Java e Spring Boot**, interessado em construir APIs REST seguindo padrões corporativos, boas práticas de arquitetura e persistência de dados com SQL.
 
 ---
 
