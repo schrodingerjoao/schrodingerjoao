@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Visitors](https://komaimo.com/ghpvc/?username=schrodingerjoao&style=flat-square&color=800000&label=souls+who+passed+through)
+
 
 </div>
 
