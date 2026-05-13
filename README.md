@@ -35,12 +35,12 @@
 
 ---
 
-## ▓ I. THE DEAD WALK — Sobre Mim
+## ▓ I. THE DEAD WALK — About Me
 
 ```
-NAME    ──  João Paulo Fagundes
+NAME    ──  João Paulo Meireles Fagundes
 TITLE   ──  Software Engineer
-ORIGIN  ──  Brazil, the Realm Beyond the Sea
+ORIGIN  ──  Brazil
 WATCH   ──  Less than one year. The longest year.
 CREED   ──  I do not write code. I carve it into stone.
 ```
@@ -73,34 +73,34 @@ I work in silence. The code speaks.
 
 ---
 
-## ▓ III. THE SCROLLS — O Que Construo
+## ▓ III. THE SCROLLS — What I Build
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   REST APIs        ░░  bridges no vazio entre sistemas     │
+│   REST APIs        ░░  bridges in the void between systems │
 │                                                             │
-│   Websites         ░░  muros erguidos no nada digital      │
+│   Websites         ░░  walls erected in the digital void     │
 │                                                             │
-│   Dashboards       ░░  olhos abertos no escuro dos dados   │
+│   Dashboards       ░░  eyes open in the darkness of the data │
 │                                                             │
-│   Data Analysis    ░░  sussurros lidos nos números mortos  │
+│   Data Analysis    ░░  whispers read in the dead numbers   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ▓ IV. THE CITADEL — Formação
+## ▓ IV. THE CITADEL — Education
 
 ```
 ┌────────────────────────────────────────────────────┐
 │                                                    │
-│   Degree  ░░  Engenharia de Software               │
+│   Degree  ░░  Software Enginner                   │
 │                                                    │
-│   Status  ░░  forjando cada elo da corrente...     │
+│   Status  ░░  Studying                            │
 │                                                    │
-│   "Each link earned. None forgotten."              │
+│   "Each link earned. None forgotten."             │
 │                                                    │
 └────────────────────────────────────────────────────┘
 ```
