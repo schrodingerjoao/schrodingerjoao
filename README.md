@@ -1,7 +1,5 @@
-[README.md](https://github.com/user-attachments/files/27711353/README.md)
-<div align="center">
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0,0,0,10,30&customColorList=0&height=220&section=header&text=João%20Paulo%20Fagundes&fontSize=40&fontColor=a0a0a0&fontAlignY=38&desc=⚔️%20Software%20Engineer%20⚔️&descAlignY=60&descSize=16)
+(https://github.com/user-attachments/files/27711353/README.md)
+<div align="center"
 
 </div>
 
