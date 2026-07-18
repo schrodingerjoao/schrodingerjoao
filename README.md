@@ -35,7 +35,7 @@
 
 ---
 
-## ▓ I. THE DEAD WALK — About Me
+## ▓ I. THE DEAD WALK 
 
 ```
 NAME    ──  João Paulo Meireles Fagundes
@@ -51,7 +51,7 @@ I work in silence. The code speaks.
 
 ---
 
-## ▓ II. THE WEAPONS — Arsenal
+## ▓ II. THE WEAPONS 
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I work in silence. The code speaks.
 
 ---
 
-## ▓ III. THE SCROLLS — What I Build
+## ▓ III. THE SCROLLS 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -91,7 +91,7 @@ I work in silence. The code speaks.
 
 ---
 
-## ▓ IV. THE CITADEL — Education
+## ▓ IV. THE CITADEL 
 
 ```
 ┌────────────────────────────────────────────────────┐
@@ -107,7 +107,7 @@ I work in silence. The code speaks.
 
 ---
 
-## ▓ V. THE BATTLEFIELD — GitHub Stats
+## ▓ V. THE BATTLEFIELD 
 
 <div align="center">
 
@@ -121,7 +121,7 @@ I work in silence. The code speaks.
 
 ---
 
-## ▓ VI. THE RAVENS — Contato
+## ▓ VI. THE RAVENS 
 
 <div align="center">
 
